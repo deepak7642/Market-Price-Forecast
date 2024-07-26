@@ -1,0 +1,15 @@
+district_name,market_name,commodity_name,variety,datetime,tempmax,tempmin,temp,dew,humidity,precip,windspeed,solarradiation,uvindex
+Alappuzha,Alappuzha,Banana - Green,Other,01-01-2011,87.7,73.3,80.1,72.9,79.2,0.276,18.3,163.1,6
+Alappuzha,Alappuzha,Banana - Green,Other,02-01-2011,87.7,75.1,80.6,72.7,77.5,0,14.6,218.1,8
+Alappuzha,Alappuzha,Banana - Green,Other,03-01-2011,87.7,69.7,79.3,72.3,79.8,0.016,11.4,195.8,7
+Alappuzha,Alappuzha,Banana - Green,Other,04-01-2011,91.3,71.5,81.4,71.3,73.2,0,8.5,232.5,8
+Alappuzha,Alappuzha,Banana - Green,Other,05-01-2011,91.3,73.3,81.1,71.4,73.3,0.024,11.4,198.4,7
+Alappuzha,Alappuzha,Banana - Green,Other,06-01-2011,91.3,73.3,80.9,71.5,74.5,0,9.3,196.1,7
+Alappuzha,Alappuzha,Banana - Green,Other,07-01-2011,91.3,75.8,81.1,72,74.8,0.02,11.4,234.2,8
+Ernakulam,Ernakulam,Banana - Green,Other,01-01-2011,87.7,73.3,80.1,73.1,79.8,0.276,18.3,171.8,6
+Ernakulam,Ernakulam,Banana - Green,Other,02-01-2011,87.7,75.1,80.5,72.7,77.8,0,16.6,222.8,8
+Ernakulam,Ernakulam,Banana - Green,Other,03-01-2011,87.7,69.7,79.2,72.1,79.6,0.008,11.4,197.3,7
+Ernakulam,Ernakulam,Banana - Green,Other,04-01-2011,91.3,71.5,81.4,71,72.4,0,10.7,234.4,8
+Ernakulam,Ernakulam,Banana - Green,Other,05-01-2011,91.3,73.3,81.3,71.4,72.9,0.024,11.4,215.1,8
+Ernakulam,Ernakulam,Banana - Green,Other,06-01-2011,91.3,73.3,81.1,71.2,73.3,0,10.9,217.5,8
+Ernakulam,Ernakulam,Banana - Green,Other,07-01-2011,91.3,75.8,81.1,71.9,74.5,0,11.4,234.8,8
